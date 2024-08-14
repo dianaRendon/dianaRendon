@@ -8,6 +8,7 @@
 <li><b>📍 Location:  </b> Mexico City 🇲🇽 </li>
 <li><b>📣 Languages: </b>  English & Spanish </li>
 
+https://dianarendon.netlify.app/ 
 
 
 ## 🌐 Socials:
